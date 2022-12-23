@@ -1,6 +1,6 @@
 <template>
    <view class="box">
-   	 <h1>零基础学uniapp</h1>
+   	 <h1>零基础学uniapp 修改一下</h1>
    </view>
 </template>
 
